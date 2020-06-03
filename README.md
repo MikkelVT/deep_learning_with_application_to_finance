@@ -1,7 +1,5 @@
 # FIE458 - DEEP LEARNING WITH APPLICATIONS TO FINANCE 
 
-Course description can be found at: https://www.nhh.no/en/courses/deep-learning-with-applications-to-finance-expired/
-
 Semester project on price prediction for Bitcoin (BTC) at Norwegian School of Economics (NHH)
 
 ## Abstract
@@ -12,3 +10,5 @@ In this paper we tried to address two objectives through the application of mach
 * Mikkel Vatne Thue ([MikkelVT](https://github.com/MikkelVT))
 * Petter Søland ([psoland](https://github.com/psoland))
 * Torgeir Winter
+
+Course description can be found at: https://www.nhh.no/en/courses/deep-learning-with-applications-to-finance-expired/
